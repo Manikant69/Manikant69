@@ -1,31 +1,130 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey++there%F0%9F%91%8B%2C+I+am+Manikant+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+Software+Engineering!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikant69&label=Profile%20views&color=0e75b6&style=flat" alt="manikant69" /> </p>
+![manicopy](https://github.com/user-attachments/assets/0d8c2bc4-74b8-4e95-aea1-198c3c490391)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikant69" alt="manikant69" /></a> </p>
+<br>
 
-- 🌱 I’m currently learning **Backend development**
+<p align="center"> 
+   <a href="https://manikant.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/manikant69">
+    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
+  </a>
+  
+   <a href="mailto:manikant.dev07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
+  </a>
 
-- 💬 Ask me about **Front development or DSA**
+  <a href="https://twitter.com/manikant69">
+    <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
+    
+  </a>
 
-- 📫 How to reach me **manikant17082001@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manikant69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikant69" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manikant170820" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manikant170820" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/manikant69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manikant69" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manikant69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manikant69" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manikant69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manikant69" height="30" width="40" /></a>
+<p align="center">
+  Hi, I’m Manikant Singh – a passionate full stack developer with expertise in MERN, Next.js, TypeScript, and Tailwind CSS. I’ve built dynamic projects like a Book Store App and a personal portfolio, showcasing my skills in creating seamless user experiences. I’m driven to innovate and constantly learn, with a vision to craft impactful digital solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikant69&show_icons=true&locale=en&layout=compact" alt="manikant69" /></p>
+### <p align="center">Technical Skills</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikant69&show_icons=true&locale=en" alt="manikant69" /></p>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikant69&" alt="manikant69" /></p>
+<br>
+
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manikant69&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="manikant69" /> </p>
+  
+<br>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<a href="https://leetcode.com/u/manikant69/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=manikant69&theme=onedark&border=border" align="right" alt="Manikant's Leetcode badges"/></a>
+
+
+🎓 Final-year B.Tech Computer Science Engineering student at **Rajasthan Technical University**, Kota.
+
+💻 **Full-Stack Developer Intern at [Learn & Build](https://learnandbuild.in/):** Gained hands-on experience in front-end and back-end technologies, working on live projects to design and deploy robust web applications.
+
+🧑‍🏫 Mentoring juniors as a **DSA Instructor** and **Teaching Assistant** at **[Coder's Cafe](https://www.linkedin.com/company/coder-s-cafe/)** (a tech club at my college), guiding them on **DSA roadmaps** and development strategies.
+
+🏢 Co-founded a GitHub organization, **[Jec-Forge](https://github.com/jec-forge/)**, with my colleagues to tackle real-time problems in our college through innovative projects and technologies, maintaining repositories to share solutions and collaborate.
+
+🤖 Solving learning algorithms with the potential to solve real-world challenges.
+
+🌱 Continuously expanding my skills in **Full-Stack Development**, **Data Structures & Algorithms**, and **Open Source Contributions**.
+
+🚀 **Exploring New Technologies**: Constantly diving into the latest advancements in **Web Development**, and **Software Engineering** to stay ahead in the tech industry.
+
+🌟 Successfully participated in **[Hacktoberfest](https://hacktoberfest.com/)**, completing the challenge with 10+ merged pull requests merged on **good first issues**, contributing to open-source projects and fostering collaboration.
+
+🌟 Strengths: Adaptable and quick learner with a passion for solving complex problems, strong teamwork and leadership skills, and a dedication to continuous learning in **Full-Stack Development**, **DSA**, and **Open Source Contributions**.
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
+<p align = "left">
+<a href = "https://www.hackerrank.com/manikant69?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
+<a href = "https://leetcode.com/manikant69/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/manikant69"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
+<a href = "https://codeforces.com/profile/manikant69"><img src = "https://img.shields.io/badge/-Codeforces-1F8ACB?style=oval-square&logo=Codeforces&logoColor=white"/></a>
+
+</p><br>
+
+<!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
+
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| My Website | [view](https://manikant.vercel.app/) | [view](https://github.com/Manikant69/Portfolio) | `React.js` `Tailwind CSS` | 
+| Book Store App | [view](https://bookstore-v.vercel.app/) | [view](https://github.com/Manikant69/Book-store-app) | `React.js` `Tailwind CSS` |
+| Blog Website | - | [view](https://github.com/Manikant69/blog-website) | `EJS` `JavaScript` `tailwind CSS` |
+| Fashion Fusion Shopping | [view](https://fashion-fusion-shopping.vercel.app/) | [view](https://github.com/Manikant69/Fashion-fusion-shopping) | `JavaScript` `CSS3` `HTML5` |
+| Tic Tac Toe | [view](https://tic-tac-toe-game-rust-alpha.vercel.app/) | [view](https://github.com/Manikant69/tic-tac-toe-game) | `JavaScript` `CSS3` `HTML5` |
+| Rock Paper Scissor | - | [view](https://github.com/Manikant69/Rock-paper-scissors-game) | `JavaScript` `CSS3` `HTML5` |
+| Calculator | - | [view](https://github.com/Manikant69/calculator) | `JavaScript` `CSS3` `HTML5` |
+| Guess the Number | - | [view](https://github.com/Manikant69/Guess_the_number) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
+| Amazon Clone | - | [view](https://github.com/Manikant69/Amazon-clone) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
+
+<br>
+
+<!-- ---------------------------------------STATS------------------------------------------ --------------------------------------------------------------------------------------------- -->
+
+## Github Stats
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=manikant69&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" 
+       alt="manikant69" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikant69&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" 
+       alt="manikant69" height="170" />
+</p>
+
+<img align="center"><img src="https://leetcode.com/manikant69/"><img width="48%" src="https://leetcode.card.workers.dev/manikant69?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+
+<br>
+
+
+<details>
+  <summary><strong>Trophies</strong></summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikant69&theme=discord" alt="manikant69" /></a> </p>
+  </details>
+
+<br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikant69&theme=dark&hide_border=true"/>
