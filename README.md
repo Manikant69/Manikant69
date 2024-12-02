@@ -50,7 +50,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<a href="https://leetcode.com/u/manikant69/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=manikant69&theme=onedark&border=border" align="right" alt="Manikant's Leetcode badges"/></a>
+<a href="https://leetcode.com/u/manikant69/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=manikant69&theme=onedark&[border,border]" align="right" alt="Manikant's Leetcode badges"/></a>
 
 
 🎓 Final-year B.Tech Computer Science Engineering student at **Rajasthan Technical University**, Kota.
