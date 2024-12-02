@@ -75,10 +75,10 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
 <p align = "left">
-<a href = "https://www.hackerrank.com/profile/manikant_dev07"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
-<a href = "https://leetcode.com/manikant69/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/manikant69"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
-<a href = "https://codeforces.com/profile/manikant69"><img src = "https://img.shields.io/badge/-Codeforces-1F8ACB?style=oval-square&logo=Codeforces&logoColor=white"/></a>
+<a href = "https://leetcode.com/manikant69/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white" width="150" height="40" /></a>
+<a href = "https://codeforces.com/profile/manikant69"><img src = "https://img.shields.io/badge/-Codeforces-1F8ACB?style=oval-square&logo=Codeforces&logoColor=white"width="150" height="40" /></a>
+<a href = "https://auth.geeksforgeeks.org/user/manikant69"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white" width="150" height="40"/></a>
+<a href = "https://www.hackerrank.com/profile/manikant_dev07"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white" width="150" height="40"/></a>
 
 </p><br>
 
