@@ -95,8 +95,8 @@
 | Fashion Fusion Shopping | [view](https://fashion-fusion-shopping.vercel.app/) | [view](https://github.com/Manikant69/Fashion-fusion-shopping) | `JavaScript` `CSS3` `HTML5` |
 | Tic Tac Toe | [view](https://tic-tac-toe-game-rust-alpha.vercel.app/) | [view](https://github.com/Manikant69/tic-tac-toe-game) | `JavaScript` `CSS3` `HTML5` |
 | Rock Paper Scissor |[view](https://rock-paper-scissors-mani.vercel.app/) | [view](https://github.com/Manikant69/Rock-paper-scissors-game) | `JavaScript` `CSS3` `HTML5` |
-| Calculator | - | [view](https://github.com/Manikant69/calculator) | `JavaScript` `CSS3` `HTML5` |
-| Guess the Number | - | [view](https://github.com/Manikant69/Guess_the_number) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
+| Calculator | [view](https://calculator-steel-psi-44.vercel.app/) | [view](https://github.com/Manikant69/calculator) | `JavaScript` `CSS3` `HTML5` |
+| Guess the Number | [view](https://guess-the-number-rose-omega.vercel.app/) | [view](https://github.com/Manikant69/Guess_the_number) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Amazon Clone | - | [view](https://github.com/Manikant69/Amazon-clone) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 
 <br>
