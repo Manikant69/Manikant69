@@ -89,7 +89,8 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| My Website | [view](https://manikant.vercel.app/) | [view](https://github.com/Manikant69/Portfolio) | `React.js` `Tailwind CSS` | 
+| JobWay | [view](https://job-portal-kzws.onrender.com/) | [view](https://github.com/Manikant69/JobWay) | `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Redux ToolKit`| 
+| My Portfolio | [view](https://manikant.vercel.app/) | [view](https://github.com/Manikant69/Portfolio) | `React.js` `Tailwind CSS` | 
 | Book Store App | [view](https://bookstore-v.vercel.app/) | [view](https://github.com/Manikant69/Book-store-app) | `React.js` `Tailwind CSS` |
 | Blog Website | - | [view](https://github.com/Manikant69/blog-website) | `EJS` `JavaScript` `tailwind CSS` |
 | Fashion Fusion Shopping | [view](https://fashion-fusion-shopping.vercel.app/) | [view](https://github.com/Manikant69/Fashion-fusion-shopping) | `JavaScript` `CSS3` `HTML5` |
